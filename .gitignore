@@ -1,0 +1,10 @@
+.idea
+*.pyc
+*.pyi
+*.sqlite3
+media/
+music/static/images/
+
+Thumbs
+env/
+__pycache__
